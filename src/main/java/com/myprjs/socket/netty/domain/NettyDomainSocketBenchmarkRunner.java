@@ -2,7 +2,7 @@ package com.myprjs.socket.netty.domain;
 
 import java.net.SocketAddress;
 
-import com.myprjs.Util.Utils;
+import com.myprjs.util.Utils;
 import com.myprjs.socket.AbstractBenchmarkRunner;
 import io.netty.bootstrap.Bootstrap;
 import io.netty.bootstrap.ServerBootstrap;

@@ -1,4 +1,4 @@
-package com.myprjs.Util;
+package com.myprjs.util;
 
 import java.io.IOException;
 import java.io.PrintWriter;

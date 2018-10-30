@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.net.ServerSocket;
 import java.net.Socket;
 
-import com.myprjs.Util.Utils;
+import com.myprjs.util.Utils;
 import com.myprjs.socket.AbstractBenchmarkRunner;
 import org.apache.commons.io.IOUtils;
 
